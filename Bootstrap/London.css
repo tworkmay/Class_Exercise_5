@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul.menu li {
+    list-style: none;
+}
+
+h1.heading {
+    background-color: #350101;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+    color: #fff;
+}
+
+section.col-lg-3.col-sm-12.leftside {
+    background-color: rgb(228, 226, 226);
+    padding: 50px 0;
+}
+
+section.col-lg-9.col-sm-12.rightside {
+    background-color: #b37a7a;
+    padding: 50px;
+}
+
+h1.footer {
+    clear: both;
+    background-color: #000000;
+    color: #f1f1f1;
+    font-size: 17px;
+    padding: 20px 0;
+    text-align: center;
+}
+
